@@ -45,8 +45,10 @@ function lengthDecider(passwordLength){
 
 // function to generate the password itself, which itself uses the two preceeding functions
 function generatePassword(){
-    //ensures that the user will be able to re-select options each time they click the button
+    
+    //re-defining these variables ensures that each time the button is clicked that new options can be selected and a new password will be generated
     selected = '';
+    myPassword = '';
 
     var characters = options(selected);
     var length = lengthDecider(passwordLength);
