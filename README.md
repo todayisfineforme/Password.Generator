@@ -1,6 +1,6 @@
 # Password Generator
 
-Website that generates random passwords based on user inputs.
+Website that generates random passwords based on user inputs using prompts.
 
 ## Installation
 
