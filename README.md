@@ -4,11 +4,7 @@ Website that generates random passwords based on user inputs using prompts.
 
 ## Installation
 
-Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
-
-```bash
-npm install foobar
-```
+clone repo and open 'index.html' in preferred browser.
 
 ## Usage
 
