@@ -6,6 +6,10 @@ Website that generates random passwords based on user inputs using prompts.
 
 clone repo and open 'index.html' in preferred browser.
 
+-or-
+
+navigate to https://todayisfineforme.github.io/Password.Generator/
+
 ## Usage
 
 ```node.js
