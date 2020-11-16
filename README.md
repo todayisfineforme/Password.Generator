@@ -1,6 +1,6 @@
 # Password Generator
 
-Foobar is a Python library for dealing with word pluralization.
+Website that generates random passwords based on user inputs.
 
 ## Installation
 
