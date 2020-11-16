@@ -1,4 +1,4 @@
-# homework.password.generator.nathan.hall
+# Password Generator
 
 Foobar is a Python library for dealing with word pluralization.
 
