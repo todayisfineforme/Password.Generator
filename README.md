@@ -2,11 +2,11 @@
 
 Website that generates random passwords based on user inputs using prompts.
 
-![password generator](./assets/main_sc.jpg)
+![password generator](./Assets/main_sc.jpg)
 
 password generated
 
-![password generated](./assets/complete_sc.jpg)
+![password generated](./Assets/complete_sc.jpg)
 
 ## Installation
 
